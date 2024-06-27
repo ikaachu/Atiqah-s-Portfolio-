@@ -1,0 +1,44 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "Boostrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+      },
+    {
+        "title": "PHP",
+        "imageSrc": "skills/php.png"
+      }
+      ,
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+      }
+  ]
+  

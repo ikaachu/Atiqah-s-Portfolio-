@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Dessertify",
+      "imageSrc": "projects/dessertify.PNG",
+      "description": "CCSD-Capstone-Project Build an e-commerce platform where users can browse products, add them to their cart, and place ordersProduct",
+      "skills": ["Java", "SpringBoot", "Hibernate" , "MySQL Workbench"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ikaachu/CCSD-Capstone-Project-With-SpringBoot"
+    },
+    {
+      "title": "DigitalSeek",
+      "imageSrc": "projects/digitalseek.PNG",
+      "description": "This solution aims to improve document organisation, and enhanced search functionality for easier retrieval and navigation of the library's digital publications.",
+      "skills": ["Html", "CSS", "PHP","MySQL" ],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ikaachu/DigitalSeek"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["-", "-", "-"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
